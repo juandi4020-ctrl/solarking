@@ -1,0 +1,7 @@
+Spawners:
+  world:
+  - 48860, 47, -72957
+  spawn2:
+  - -1, 64, 30
+Trusted-players: []
+Stored-items: []

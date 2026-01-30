@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: true
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1769636244608
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769649976008
+  login: 1769648443139
+money: '1000.0'
+last-account-name: 03thiaguittoo
+lastlocation:
+  world: 91ff1682-9975-49cb-8ff8-5f6c2e7d09f4
+  world-name: spawn2
+  x: 0.5701830365040206
+  y: 64.0
+  z: 3.759163593033716
+  yaw: 0.0019774436950683594
+  pitch: 6.449954032897949
+logoutlocation:
+  world: 91ff1682-9975-49cb-8ff8-5f6c2e7d09f4
+  world-name: spawn2
+  x: 30.637230237959823
+  y: 64.0
+  z: 43.90025970174427
+  yaw: 96.00238800048828
+  pitch: 17.850000381469727

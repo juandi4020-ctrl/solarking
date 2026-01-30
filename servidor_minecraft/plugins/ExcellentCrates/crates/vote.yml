@@ -1,0 +1,54 @@
+Name: <gradient:#047600:#047600>ᴄᴀᴊ</gradient><gradient:#047600:#5FE270>ᴀ ᴠᴏᴛᴇ</gradient>
+Description: []
+ItemProvider:
+  Provider: vanilla
+  Data:
+    Value: '{components:{"minecraft:custom_data":{"Skulls:ID":"5292"},"minecraft:custom_name":{bold:0b,extra:[{bold:0b,italic:0b,obfuscated:0b,strikethrough:0b,text:"&<#047600>ᴄ&<#047600>ᴀ&<#047600>ᴊ&<#047600>ᴀ &<#28A12D>ᴠ&<#3BB743>ᴏ&<#4DCC5A>ᴛ&<#5FE270>ᴇ",underlined:0b}],italic:0b,obfuscated:0b,strikethrough:0b,text:"",underlined:0b},"minecraft:profile":{id:[I;111048949,643774525,-1648062037,1872697832],name:"XSeries",properties:[{name:"XSeries",value:"13.6.0"},{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg0MDMyMjVhZWIwMTE5MTNkZDg2Y2I4NDdkZGUyZWEzNGY0OWJhZGE5MWQxODVmYzk0NDc1YzM5ZDk1MjZmMiJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+    DataVersion: 4556
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: default
+OpeningCooldown:
+  Enabled: false
+  Value: 0
+OpeningLimits:
+  Amount: 1
+Block:
+  Positions:
+  - -48,66,50,spawn2
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: default
+    Y_Offset: 0.0
+  Effect:
+    Enabled: false
+    Model: helix
+    Particle:
+      Name: CLOUD
+Milestones:
+  Repeatable: false
+_dataver: 600
+Post-Open:
+  Commands: []
+CostOptions:
+  vote:
+    Enabled: true
+    Name: Vote
+    Icon:
+      Provider: vanilla
+      Data:
+        Value: '{components:{"minecraft:custom_name":{extra:[{bold:0b,color:"#047600",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟʟᴀ",underlined:0b},{bold:0b,color:"#047600",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#138813",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴇ",underlined:0b},{bold:0b,color:"#229A25",italic:0b,obfuscated:0b,strikethrough:0b,text:" ",underlined:0b},{bold:0b,color:"#32AC38",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#41BE4B",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴏ",underlined:0b},{bold:0b,color:"#50D05D",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴛ",underlined:0b},{bold:0b,color:"#5FE270",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴇ",underlined:0b}],text:""},"minecraft:enchantments":{"minecraft:unbreaking":1},"minecraft:lore":["",{extra:[{bold:0b,color:"dark_green",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍
+          ",underlined:0b},{color:"gray",italic:0b,text:"ᴜꜱᴀ ᴇꜱᴛᴀ ʟʟᴀᴠᴇ ᴘᴀʀᴀ"}],text:""},{extra:[{bold:0b,color:"dark_green",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴏʙᴛᴇɴᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ"}],text:""},"",{extra:[{bold:0b,color:"dark_green",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴄᴀɴᴊᴇᴀʟᴀ ᴇɴ ᴇʟ"}],text:""},{extra:[{bold:0b,color:"dark_green",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ /ᴡᴀʀᴘ ᴄᴀᴊᴀꜱ",underlined:0b}],text:""}],"minecraft:tooltip_display":{hidden_components:["minecraft:enchantments"]}},count:1,id:"minecraft:lime_dye"}'
+        DataVersion: 4556
+    Entries:
+      '0':
+        Type: key
+        Key: vote
+        Amount: 1

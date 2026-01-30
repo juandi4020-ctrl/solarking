@@ -1,0 +1,10 @@
+Name: <c:#59B4DE>ʟ</c><c:#68A6D6>ʟ</c><c:#7899CE>ᴀ</c><c:#878BC6>ᴠ</c><c:#977EBE>ᴇ</c><c:#A670B6> </c><c:#B663AE>ʀ</c><c:#C555A6>ᴜ</c><c:#D5489E>ꜱ</c><c:#E43A96>ᴛ
+Virtual: false
+ItemData:
+  Provider: vanilla
+  Data:
+    Value: '{components:{"minecraft:custom_name":{extra:[{bold:0b,color:"#59B4DE",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#68A6D6",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#7899CE",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴀ",underlined:0b},{bold:0b,color:"#878BC6",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#977EBE",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴇ",underlined:0b},{bold:0b,color:"#A670B6",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+      ",underlined:0b},{bold:0b,color:"#B663AE",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʀ",underlined:0b},{bold:0b,color:"#C555A6",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴜ",underlined:0b},{bold:0b,color:"#D5489E",italic:0b,obfuscated:0b,strikethrough:0b,text:"ꜱ",underlined:0b},{bold:0b,color:"#E43A96",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴛ",underlined:0b}],text:""},"minecraft:enchantments":{"minecraft:unbreaking":1},"minecraft:lore":["",{extra:[{bold:0b,color:"aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍
+      ",underlined:0b},{color:"gray",italic:0b,text:"ᴜꜱᴀ ᴇꜱᴛᴀ ʟʟᴀᴠᴇ ᴘᴀʀᴀ"}],text:""},{extra:[{bold:0b,color:"aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴏʙᴛᴇɴᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ"}],text:""},"",{extra:[{bold:0b,color:"aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴄᴀɴᴊᴇᴀʟᴀ ᴇɴ ᴇʟ"}],text:""},{extra:[{bold:0b,color:"aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ /ᴡᴀʀᴘ ᴄᴀᴊᴀꜱ",underlined:0b}],text:""}],"minecraft:tooltip_display":{hidden_components:["minecraft:enchantments"]}},count:1,id:"minecraft:light_blue_dye"}'
+    DataVersion: 4556
+ItemStackable: true

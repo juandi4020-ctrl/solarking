@@ -1,0 +1,56 @@
+Name: <gradient:#441A99:#5FFC5C>ᴄᴀᴊᴀ ᴏɴʏx</gradient>
+Description: []
+ItemProvider:
+  Provider: vanilla
+  Data:
+    Value: '{components:{"minecraft:custom_data":{"Skulls:ID":"24164"},"minecraft:custom_name":{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Fancy Cube",underlined:0b}],text:""},"minecraft:profile":{id:[I;-914467943,-255575237,-1138891023,-1174281712],name:"XSeries",properties:[{name:"XSeries",value:"13.6.0"},{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTMwZmU3NzFmY2MzZWNjMDUzMGVlOTU0NWFiMDc3OTc0MzdmOTVlMDlhMGVhYTliNTEyNDk3ZmU4OTJmNTJmYiJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+    DataVersion: 4556
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: default
+OpeningCooldown:
+  Enabled: false
+  Value: 0
+OpeningLimits:
+  Amount: 1
+Block:
+  Positions:
+  - -60,66,50,spawn2
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: default
+    Y_Offset: 0.0
+  Effect:
+    Enabled: false
+    Model: helix
+    Particle:
+      Name: CLOUD
+Milestones:
+  Repeatable: false
+_dataver: 600
+Post-Open:
+  Commands: []
+CostOptions:
+  '3':
+    Enabled: true
+    Name: '3'
+    Icon:
+      Provider: vanilla
+      Data:
+        Value: '{components:{"minecraft:custom_name":{extra:[{bold:0b,color:"#441A99",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#473392",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#4A4C8B",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴀ",underlined:0b},{bold:0b,color:"#4D6585",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#507E7E",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴇ",underlined:0b},{bold:0b,color:"#539877",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+          ",underlined:0b},{bold:0b,color:"#56B170",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴏ",underlined:0b},{bold:0b,color:"#59CA6A",italic:0b,obfuscated:0b,strikethrough:0b,text:"ɴ",underlined:0b},{bold:0b,color:"#5CE363",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʏ",underlined:0b},{bold:0b,color:"#5FFC5C",italic:0b,obfuscated:0b,strikethrough:0b,text:"x",underlined:0b}],text:""},"minecraft:enchantments":{"minecraft:unbreaking":1},"minecraft:lore":["",{extra:[{bold:0b,color:"#491AB8",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍
+          ",underlined:0b},{bold:0b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴜꜱᴀ ᴇꜱᴛᴀ ʟʟᴀᴠᴇ ᴘᴀʀᴀ",underlined:0b}],text:""},{extra:[{bold:0b,color:"#491AB8",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{bold:0b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴏʙᴛᴇɴᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ",underlined:0b}],text:""},"",{extra:[{bold:0b,color:"#491AB8",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{bold:0b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴄᴀɴᴊᴇᴀʟᴀ
+          ᴇɴ ᴇʟ",underlined:0b}],text:""},{extra:[{bold:0b,color:"#491AB8",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ /ᴡᴀʀᴘ ᴄᴀᴊᴀꜱ",underlined:0b}],text:""}],"minecraft:tooltip_display":{hidden_components:["minecraft:enchantments"]}},count:1,id:"minecraft:purple_dye"}'
+        DataVersion: 4556
+    Entries:
+      '0':
+        Type: key
+        Key: onyx
+        Amount: 1

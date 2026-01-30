@@ -1,0 +1,35 @@
+Name: Vote Crate
+Description: []
+ItemProvider:
+  Provider: vanilla
+  Data:
+    Value: '{components:{"minecraft:custom_name":{bold:0b,extra:[{bold:0b,italic:0b,obfuscated:0b,strikethrough:0b,text:"Vote Crate",underlined:0b}],italic:0b,obfuscated:0b,strikethrough:0b,text:"",underlined:0b},"minecraft:tooltip_display":{hidden_components:["minecraft:tool","minecraft:sheep/color","minecraft:potion_contents","minecraft:custom_data","minecraft:trim","minecraft:chicken/variant","minecraft:fireworks","minecraft:can_place_on","minecraft:map_decorations","minecraft:glider","minecraft:weapon","minecraft:wolf/collar","minecraft:tropical_fish/base_color","minecraft:container","minecraft:provides_banner_patterns","minecraft:equippable","minecraft:enchantment_glint_override","minecraft:profile","minecraft:wolf/sound_variant","minecraft:break_sound","minecraft:map_color","minecraft:use_cooldown","minecraft:creative_slot_lock","minecraft:rabbit/variant","minecraft:consumable","minecraft:axolotl/variant","minecraft:mooshroom/variant","minecraft:recipes","minecraft:rarity","minecraft:repairable","minecraft:note_block_sound","minecraft:painting/variant","minecraft:lodestone_tracker","minecraft:debug_stick_state","minecraft:llama/variant","minecraft:container_loot","minecraft:wolf/variant","minecraft:writable_book_content","minecraft:villager/variant","minecraft:use_remainder","minecraft:bucket_entity_data","minecraft:written_book_content","minecraft:stored_enchantments","minecraft:unbreakable","minecraft:parrot/variant","minecraft:intangible_projectile","minecraft:food","minecraft:max_stack_size","minecraft:shulker/color","minecraft:bees","minecraft:horse/variant","minecraft:banner_patterns","minecraft:base_color","minecraft:cat/variant","minecraft:potion_duration_scale","minecraft:repair_cost","minecraft:blocks_attacks","minecraft:bundle_contents","minecraft:lock","minecraft:attribute_modifiers","minecraft:map_id","minecraft:enchantable","minecraft:can_break","minecraft:instrument","minecraft:damage","minecraft:tropical_fish/pattern","minecraft:frog/variant","minecraft:fox/variant","minecraft:enchantments","minecraft:salmon/size","minecraft:entity_data","minecraft:dyed_color","minecraft:jukebox_playable","minecraft:block_state","minecraft:cat/collar","minecraft:map_post_processing","minecraft:cow/variant","minecraft:suspicious_stew_effects","minecraft:block_entity_data","minecraft:max_damage","minecraft:damage_resistant","minecraft:death_protection","minecraft:pot_decorations","minecraft:pig/variant","minecraft:firework_explosion","minecraft:ominous_bottle_amplifier","minecraft:provides_trim_material","minecraft:charged_projectiles","minecraft:tropical_fish/pattern_color"]}},count:1,id:"minecraft:chest"}'
+    DataVersion: 4556
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: default
+OpeningCooldown:
+  Enabled: false
+  Value: 0
+OpeningLimits:
+  Amount: 0
+Block:
+  Positions: []
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: default
+    Y_Offset: 0.0
+  Effect:
+    Enabled: false
+    Model: helix
+    Particle:
+      Name: CLOUD
+Milestones:
+  Repeatable: false

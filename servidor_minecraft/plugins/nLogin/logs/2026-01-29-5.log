@@ -1,0 +1,22 @@
+[2026/01/29 14:07:40 INFO]:           __             _       
+[2026/01/29 14:07:40 INFO]:   _ __   / /  ___   __ _(_)_ __  
+[2026/01/29 14:07:40 INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/01/29 14:07:40 INFO]:  | | | / /__| (_) | (_| | | | | |
+[2026/01/29 14:07:40 INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[2026/01/29 14:07:40 INFO]:                   |___/            
+[2026/01/29 14:07:40 INFO]:  By: www.nickuc.com - V 2.0.11 DEV
+[2026/01/29 14:07:40 INFO]:  
+[2026/01/29 14:07:40 DEBUG]: Loading the messages_es.yml message file...
+[2026/01/29 14:07:40 DEBUG]: Messages were loaded in 124 ms (single file).
+[2026/01/29 14:07:40 DEBUG]: Settings were loaded in 253 ms.
+[2026/01/29 14:07:40 DEBUG]: Loading database...
+[2026/01/29 14:07:41 DEBUG]: Starting logger filter...
+[2026/01/29 14:10:03 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'apolofs', `unique_id` = 9e9c9df857aa3ef38bb9b85629a1c59c,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$IRC0UYwRkLJpHHESy1X7Tw$42x2n+I+ulaDyuY/rb9qCxdHsmq5piXkkKcJtwXLlSw', `last_ip` = '192.168.194.149', `creation_date` = 2026-01-29 00:12:31.714, `last_seen` = 2026-01-29 14:10:03.115, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2026/01/29 14:10:03 INFO]: The user apolofs has successfully logged in.
+[2026/01/29 14:57:29 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'apolofs', `unique_id` = 9e9c9df857aa3ef38bb9b85629a1c59c,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$IRC0UYwRkLJpHHESy1X7Tw$42x2n+I+ulaDyuY/rb9qCxdHsmq5piXkkKcJtwXLlSw', `last_ip` = '192.168.194.149', `creation_date` = 2026-01-29 00:12:31.714, `last_seen` = 2026-01-29 14:57:29.051, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2026/01/29 14:58:23 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'apolofs', `unique_id` = 9e9c9df857aa3ef38bb9b85629a1c59c,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$IRC0UYwRkLJpHHESy1X7Tw$42x2n+I+ulaDyuY/rb9qCxdHsmq5piXkkKcJtwXLlSw', `last_ip` = '192.168.194.149', `creation_date` = 2026-01-29 00:12:31.714, `last_seen` = 2026-01-29 14:58:23.971, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2026/01/29 14:58:23 INFO]: The user apolofs has successfully logged in.
+[2026/01/29 15:05:35 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'apolofs', `unique_id` = 9e9c9df857aa3ef38bb9b85629a1c59c,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$IRC0UYwRkLJpHHESy1X7Tw$42x2n+I+ulaDyuY/rb9qCxdHsmq5piXkkKcJtwXLlSw', `last_ip` = '192.168.194.149', `creation_date` = 2026-01-29 00:12:31.714, `last_seen` = 2026-01-29 15:05:35.614, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2026/01/29 15:06:27 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'apolofs', `unique_id` = 9e9c9df857aa3ef38bb9b85629a1c59c,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$IRC0UYwRkLJpHHESy1X7Tw$42x2n+I+ulaDyuY/rb9qCxdHsmq5piXkkKcJtwXLlSw', `last_ip` = '192.168.194.149', `creation_date` = 2026-01-29 00:12:31.714, `last_seen` = 2026-01-29 15:06:27.568, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2026/01/29 15:06:27 INFO]: The user apolofs has successfully logged in.
+[2026/01/29 15:39:38 DEBUG]: [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'apolofs', `unique_id` = 9e9c9df857aa3ef38bb9b85629a1c59c,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$argon2id$v=19$m=32768,t=5,p=1$IRC0UYwRkLJpHHESy1X7Tw$42x2n+I+ulaDyuY/rb9qCxdHsmq5piXkkKcJtwXLlSw', `last_ip` = '192.168.194.149', `creation_date` = 2026-01-29 00:12:31.714, `last_seen` = 2026-01-29 15:39:38.057, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)

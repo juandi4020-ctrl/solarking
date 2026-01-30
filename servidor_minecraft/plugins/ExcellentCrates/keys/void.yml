@@ -1,0 +1,10 @@
+Name: <c:#991A1A>ʟ</c><c:#92332D>ʟ</c><c:#8B4C40>ᴀ</c><c:#856554>ᴠ</c><c:#7E7E67>ᴇ</c><c:#77987A> </c><c:#70B18D>ᴠ</c><c:#6ACAA1>ᴏ</c><c:#63E3B4>ɪ</c><c:#5CFCC7>ᴅ
+Virtual: false
+ItemData:
+  Provider: vanilla
+  Data:
+    Value: '{components:{"minecraft:custom_name":{extra:[{bold:0b,color:"#991A1A",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#92332D",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#8B4C40",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴀ",underlined:0b},{bold:0b,color:"#856554",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#7E7E67",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴇ",underlined:0b},{bold:0b,color:"#77987A",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+      ",underlined:0b},{bold:0b,color:"#70B18D",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#6ACAA1",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴏ",underlined:0b},{bold:0b,color:"#63E3B4",italic:0b,obfuscated:0b,strikethrough:0b,text:"ɪ",underlined:0b},{bold:0b,color:"#5CFCC7",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴅ",underlined:0b}],text:""},"minecraft:enchantments":{"minecraft:unbreaking":1},"minecraft:lore":["",{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍
+      ",underlined:0b},{color:"gray",italic:0b,text:"ᴜꜱᴀ ᴇꜱᴛᴀ ʟʟᴀᴠᴇ ᴘᴀʀᴀ"}],text:""},{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴏʙᴛᴇɴᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ"}],text:""},"",{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴄᴀɴᴊᴇᴀʟᴀ ᴇɴ ᴇʟ"}],text:""},{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ /ᴡᴀʀᴘ ᴄᴀᴊᴀꜱ",underlined:0b}],text:""}],"minecraft:tooltip_display":{hidden_components:["minecraft:enchantments"]}},count:1,id:"minecraft:brown_dye"}'
+    DataVersion: 4556
+ItemStackable: true

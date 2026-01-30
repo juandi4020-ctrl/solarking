@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1769701044559
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769738444731
+  login: 1769737691342
+money: '99177002.4'
+last-account-name: apolofs
+lastlocation:
+  world: 6f368042-df94-42c8-8122-32ecf6d1b027
+  world-name: world
+  x: 24385.5
+  y: 91.0
+  z: -737.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 91ff1682-9975-49cb-8ff8-5f6c2e7d09f4
+  world-name: spawn2
+  x: -54.50565725014843
+  y: 64.0
+  z: 34.286317551386254
+  yaw: -85.49769592285156
+  pitch: 13.200071334838867
+last-message-reply-recipient: false
+nickname: §6§lꜱʀ.ᴀᴘᴏʟᴏ

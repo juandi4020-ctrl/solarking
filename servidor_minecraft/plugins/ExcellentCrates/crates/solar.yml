@@ -1,0 +1,56 @@
+Name: <gradient:#FF9A00:#FFED8A>ᴄᴀᴊᴀ ꜱᴏʟᴀʀ</gradient>
+Description: []
+ItemProvider:
+  Provider: vanilla
+  Data:
+    Value: '{components:{"minecraft:custom_data":{"Skulls:ID":"7532"},"minecraft:custom_name":{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Battra",underlined:0b}],text:""},"minecraft:profile":{id:[I;-1308608034,1484731991,-1597513300,-1606572999],name:"XSeries",properties:[{name:"XSeries",value:"13.6.0"},{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWJhYTg2ZmVkNmNiMDE0YjgyMGJkMjY0MDk3OTQyNjM2ZDgyNGYyZGM2OTk5NTBjNDg5ZWJmMjY1YzFkZmIifX19"}]}},count:1,id:"minecraft:player_head"}'
+    DataVersion: 4556
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: default
+OpeningCooldown:
+  Enabled: false
+  Value: 0
+OpeningLimits:
+  Amount: 1
+Block:
+  Positions:
+  - -54,66,40,spawn2
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: example
+    Y_Offset: 0.0
+  Effect:
+    Enabled: true
+    Model: sphere
+    Particle:
+      Name: TRIAL_SPAWNER_DETECTION
+Milestones:
+  Repeatable: false
+_dataver: 600
+Post-Open:
+  Commands: []
+CostOptions:
+  '2':
+    Enabled: true
+    Name: '2'
+    Icon:
+      Provider: vanilla
+      Data:
+        Value: '{components:{"minecraft:custom_name":{extra:[{bold:0b,color:"#FF9A00",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#FFA20E",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#FFAB1C",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴀ",underlined:0b},{bold:0b,color:"#FFB329",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴠ",underlined:0b},{bold:0b,color:"#FFBB37",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴇ",underlined:0b},{bold:0b,color:"#FFC445",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+          ",underlined:0b},{bold:0b,color:"#FFCC53",italic:0b,obfuscated:0b,strikethrough:0b,text:"ꜱ",underlined:0b},{bold:0b,color:"#FFD461",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴏ",underlined:0b},{bold:0b,color:"#FFDC6E",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʟ",underlined:0b},{bold:0b,color:"#FFE57C",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴀ",underlined:0b},{bold:0b,color:"#FFED8A",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʀ",underlined:0b}],text:""},"minecraft:enchantments":{"minecraft:unbreaking":1},"minecraft:lore":["",{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍
+          ",underlined:0b},{color:"gray",italic:0b,text:"ᴜꜱᴀ ᴇꜱᴛᴀ ʟʟᴀᴠᴇ ᴘᴀʀᴀ"}],text:""},{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴏʙᴛᴇɴᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ"}],text:""},{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴅᴇ ʟᴀ ᴛᴇᴍᴘᴏʀᴀᴅᴀ ɪ"}],text:""},"",{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴄᴀɴᴊᴇᴀʟᴀ
+          ᴇɴ ᴇʟ"}],text:""},{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ /ᴡᴀʀᴘ ᴄᴀᴊᴀꜱ",underlined:0b}],text:""},"",{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"▍ ",underlined:0b},{color:"gray",italic:0b,text:"ᴀᴅǫᴜɪᴇʀᴇʟᴀ ᴇɴ ɴᴜᴇꜱᴛʀᴀ "},{color:"gold",italic:0b,text:"ᴛɪᴇɴᴅᴀ"}],text:""}],"minecraft:tooltip_display":{hidden_components:["minecraft:enchantments"]}},count:1,id:"minecraft:resin_clump"}'
+        DataVersion: 4556
+    Entries:
+      '0':
+        Type: key
+        Key: solar
+        Amount: 1

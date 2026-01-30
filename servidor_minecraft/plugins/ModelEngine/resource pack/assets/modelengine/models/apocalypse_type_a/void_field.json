@@ -1,0 +1,1 @@
+{"textures":{"particle":"#10","10":"modelengine:entity/apocalypse_type_a6"},"elements":[{"from":[-13.083334,8.166667,-12.916668],"to":[29.583334,8.166667,29.75],"faces":{"up":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":0,"texture":"#10"},"down":{"uv":[0.0,16.0,16.0,0.0],"tintindex":0,"rotation":0,"texture":"#10"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

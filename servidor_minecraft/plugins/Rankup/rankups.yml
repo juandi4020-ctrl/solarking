@@ -1,0 +1,365 @@
+#
+# If you are adding your own ranks, make sure to delete the example ranks!
+# Need help setting the plugin up?
+# Read the wiki: https://okx.sh/rankup/Home.html
+# Join the discord server for live support: https://discord.gg/maB4382 (buyers only)
+#
+
+# this name doesn't matter
+Rookie:
+  rank: 'default'
+  next: 'Rookie'
+  requirements:
+    - 'money 50000'
+    - 'playtime-minutes 120'
+    - 'block-break COAL_ORE 25'
+    - 'total-mob-kills 15'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ʀᴏᴏᴋɪᴇ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E150000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E12 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 25 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 15 ᴍᴏʙs
+      &r
+Apprentice:
+  rank: 'Rookie'
+  next: 'Apprentice'
+  requirements:
+    - 'money 75000'
+    - 'playtime-minutes 240'
+    - 'block-break COAL_ORE 50'
+    - 'total-mob-kills 30'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴀᴘᴘʀᴇɴᴛɪᴄᴇ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E175000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E14 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 50 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 30 ᴍᴏʙs
+      &r
+Novice:
+  rank: 'Apprentice'
+  next: 'Novice'
+  requirements:
+    - 'money 150000'
+    - 'playtime-minutes 480'
+    - 'block-break COAL_ORE 75'
+    - 'total-mob-kills 45'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ɴᴏᴠɪᴄᴇ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E115000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E18 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 75 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 45 ᴍᴏʙs
+      &r
+Royal:
+  rank: 'Novice'
+  next: 'Royal'
+  requirements:
+    - 'money 300000'
+    - 'playtime-minutes 720'
+    - 'block-break COAL_ORE 100'
+    - 'total-mob-kills 60'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ʀᴏʏᴀʟ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E130000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E112 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 100 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 60 ᴍᴏʙs
+      &r
+Noble:
+  rank: 'Royal'
+  next: 'Noble'
+  requirements:
+    - 'money 500000'
+    - 'playtime-minutes 1440'
+    - 'block-break COAL_ORE 125'
+    - 'block-break IRON_ORE 15'
+    - 'total-mob-kills 80'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ɴᴏʙʟᴇ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E1500000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E11 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 125 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 15 ıʀᴏɴ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 80 ᴍᴏʙs
+      &r
+Experienced:
+  rank: 'Noble'
+  next: 'Experienced'
+  requirements:
+    - 'money 800000'
+    - 'playtime-minutes 2880'
+    - 'block-break COAL_ORE 150'
+    - 'block-break IRON_ORE 30'
+    - 'total-mob-kills 120'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇᴅ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E1800000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E12 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 30 ıʀᴏɴ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 120 ᴍᴏʙs
+      &r
+Hero:
+  rank: 'Experienced'
+  next: 'Hero'
+  requirements:
+    - 'money 1500000'
+    - 'playtime-minutes 4320'
+    - 'block-break COAL_ORE 170'
+    - 'block-break IRON_ORE 50'
+    - 'total-mob-kills 150'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ʜᴇʀᴏ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E11500000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E13 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 170 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 50 ıʀᴏɴ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 150 ᴍᴏʙs
+      &r
+Expert:
+  rank: 'Hero'
+  next: 'Expert'
+  requirements:
+    - 'money 2500000'
+    - 'playtime-minutes 5760'
+    - 'block-break COAL_ORE 200'
+    - 'block-break IRON_ORE 80'
+    - 'block-break DIAMOND_ORE 20'
+    - 'total-mob-kills 280'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴇxᴘᴇʀᴛ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E12500000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E14 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 200 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 80 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 20 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 280 ᴍᴏʙs
+      &r
+Emperor:
+  rank: 'Expert'
+  next: 'Emperor'
+  requirements:
+    - 'money 4000000'
+    - 'playtime-minutes 7200'
+    - 'block-break COAL_ORE 250'
+    - 'block-break IRON_ORE 120'
+    - 'block-break DIAMOND_ORE 45'
+    - 'total-mob-kills 325'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴇᴍᴘᴇʀᴏʀ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E14000000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E15 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 250 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 120 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 45 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 325 ᴍᴏʙs
+      &r
+Ruler:
+  rank: 'Emperor'
+  next: 'Ruler'
+  requirements:
+    - 'money 5000000'
+    - 'playtime-minutes 8640'
+    - 'block-break COAL_ORE 300'
+    - 'block-break IRON_ORE 150'
+    - 'block-break DIAMOND_ORE 80'
+    - 'block-break GOLD_ORE 20'
+    - 'total-mob-kills 400'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ʀᴜʟᴇʀ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E15000000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E16 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 300 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 80 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 20 ɢᴏʟᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 400 ᴍᴏʙs
+      &r
+Mythic:
+  rank: 'Ruler'
+  next: 'Mythic'
+  requirements:
+    - 'money 6000000'
+    - 'playtime-minutes 10080'
+    - 'block-break COAL_ORE 350'
+    - 'block-break IRON_ORE 180'
+    - 'block-break DIAMOND_ORE 125'
+    - 'block-break GOLD_ORE 50'
+    - 'total-mob-kills 500'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴍʏᴛʜɪᴄ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E16000000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E17 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 350 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 180 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 125 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 50 ɢᴏʟᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 500 ᴍᴏʙs
+      &r
+Olympus:
+  rank: 'Mythic'
+  next: 'Olympus'
+  requirements:
+    - 'money 8000000'
+    - 'playtime-minutes 11520'
+    - 'block-break COAL_ORE 450'
+    - 'block-break IRON_ORE 200'
+    - 'block-break DIAMOND_ORE 150'
+    - 'block-break GOLD_ORE 75'
+    - 'block-break EMERALD_ORE 15'
+    - 'total-mob-kills 700'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴏʟʏᴍᴘᴜs ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E18000000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E18 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 450 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 200 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 75 ɢᴏʟᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 15 ᴇᴍᴇʀᴀʟᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 700 ᴍᴏʙs
+      &r
+Elite:
+  rank: 'Olympus'
+  next: 'Elite'
+  requirements:
+    - 'money 90000000'
+    - 'playtime-minutes 12960'
+    - 'block-break COAL_ORE 525'
+    - 'block-break IRON_ORE 250'
+    - 'block-break DIAMOND_ORE 175'
+    - 'block-break GOLD_ORE 100'
+    - 'block-break EMERALD_ORE 30'
+    - 'total-mob-kills 850'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴇʟɪᴛᴇ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E19000000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E19 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 525 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 250 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 175 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 100 ɢᴏʟᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 30 ᴇᴍᴇʀᴀʟᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 850 ᴍᴏʙs
+      &r
+Pixelated:
+  rank: 'Elite'
+  next: 'Pixelated'
+  requirements:
+    - 'money 10000000'
+    - 'playtime-minutes 14400'
+    - 'block-break COAL_ORE 600'
+    - 'block-break IRON_ORE 300'
+    - 'block-break DIAMOND_ORE 200'
+    - 'block-break GOLD_ORE 150'
+    - 'block-break EMERALD_ORE 45'
+    - 'total-mob-kills 10000'
+  commands:
+    - 'lp user {{player}} parent add {{next.rank}}'
+    - 'lp user {{player}} parent remove {{rank.rank}}'
+  rankup:
+    requirements-not-met: |-
+      &r
+      &r    &#E54646⚠ &#E1E5E5ɴᴇᴄᴇꜱɪᴛᴀꜱ ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴇꜱᴛᴀꜱ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴏʙᴛᴇɴᴇʀ ᴇʟ ʀᴀɴɢᴏ
+      &r
+      &r     &#C5DBEAℹ &#DFE8EE&lsʜᴏᴡɪɴɢ ᴘɪxᴇʟᴀᴛᴇᴅ ᴍɪssɪᴏɴs:
+      &r       &#39FF67💰 &#C8E2E110000000$ ᴍᴏɴᴇʏ
+      &r       &#F6F251⌛ &#C8E2E110 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 600 ᴄᴏᴀʟ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 300 ıʀᴏɴ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 200 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ɢᴏʟᴅ ᴏʀᴇ
+      &r       &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 45 ᴇᴍᴇʀᴀʟᴅ ᴏʀᴇ
+      &r       &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 10000 ᴍᴏʙs
+      &r

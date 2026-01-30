@@ -1,0 +1,460 @@
+menu_title: '                ʀᴀɴᴋs'
+open_command:
+- rank
+- ranks
+size: 54
+items:
+  discord:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY2NGU1NGU3NjI4N2UzZmUyYmQzOTdjMDk4ZWU3YTRiZDBmOWM4OGY5MzlmZGU4YmFiNzhjMzI3MWE0NjE4ZiJ9fX0=
+    slot: 41
+    display_name: '&#5FBAE5About Discord'
+    lore:
+    - ''
+    - '&7ʙʏ ᴊᴏɪɴɪɴɢ ᴏᴜʀ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ, ʏᴏᴜ ᴄᴀɴ ʙᴇ ᴛʜᴇ ғɪʀsᴛ ᴛᴏ'
+    - '&7ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴜᴘᴅᴀᴛᴇs ᴀɴᴅ ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs, ᴍᴀᴋᴇ ғʀɪᴇɴᴅs ᴀɴᴅ'
+    - '&7ʜᴀᴠᴇ ғᴜɴ, ᴡɪɴ ᴘʀɪᴢᴇs ʙʏ ᴄʜᴀᴛᴛɪɴɢ, ᴇᴠᴇɴ ᴡɪɴ ᴠɪᴘ ᴅʀᴀᴡs ᴀɴᴅ ᴍᴏʀᴇ!'
+    - ''
+    - '&7ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴡɪɴ ᴀ sᴘᴇᴄɪᴀʟ ʀᴏʟᴇ ᴀɴᴅ sᴘᴇᴄɪᴀʟ ᴘʀᴏᴅᴜᴄᴛs ʙʏ'
+    - '&7ᴍᴀᴛᴄʜɪɴɢ ʏᴏᴜʀ ɢᴀᴍᴇ ᴀᴄᴄᴏᴜɴᴛ ᴡɪᴛʜ ᴏᴜʀ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ!'
+    - ''
+    - '&8⇴ &#5FBAE5ᴅɪsᴄᴏʀᴅ.ɢɢ/sᴇʀᴠᴇʀɴᴀᴍᴇ.ɴᴇᴛ &8(&#3690BC/ᴅɪsᴄᴏʀᴅ&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] discord'
+    right_click_commands:
+    - '[close]'
+    - '[player] discord'
+  fill:
+    material: BLACK_STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 17
+    - 18
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 40
+    - 42
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+  previouspage:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjllYTFkODYyNDdmNGFmMzUxZWQxODY2YmNhNmEzMDQwYTA2YzY4MTc3Yzc4ZTQyMzE2YTEwOThlNjBmYjdkMyJ9fX0=
+    slot: 39
+    display_name: '&#E35959ᴘʀᴇᴠɪᴏᴜs ᴘᴀɢᴇ'
+    left_click_commands:
+    - '[openguimenu] menu'
+    right_click_commands:
+    - '[openguimenu] menu'
+  rookie:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjViNWE5OTU5Y2MyZGU0MzIwMzA0ZThlMGEyNmFhZWRkMTFmYjc5YjZhNjliMmRlOGI4OWRjZWMyZDgwZWIxZCJ9fX0=
+    slot: 10
+    display_name: '&#FFFFFF「&#EBEBEBʀ&#D6D6D6ᴏ&#C2C2C2ᴏ&#ADADADᴋ&#999999ɪ&#848484ᴇ&#707070」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E150000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E12 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 25 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &225'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 15 ᴍᴏʙs &a%statistic_mob_kills% &8/ &215'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ʀᴏᴏᴋɪᴇ'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  apprentice:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjViNWE5OTU5Y2MyZGU0MzIwMzA0ZThlMGEyNmFhZWRkMTFmYjc5YjZhNjliMmRlOGI4OWRjZWMyZDgwZWIxZCJ9fX0=
+    slot: 19
+    display_name: '&#FFFFFF「&#F2F2F2ᴀ&#E5E5E5ᴘ&#D8D8D8ᴘ&#CBCBCBʀ&#BEBEBEᴇ&#B1B1B1ɴ&#A4A4A4ᴛ&#979797ɪ&#8A8A8Aᴄ&#7D7D7Dᴇ&#707070」&7%player%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E175000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E14 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 50 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &250'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 30 ᴍᴏʙs &a%statistic_mob_kills% &8/ &230'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴀᴘᴘʀᴇɴᴛɪᴄᴇ'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  novice:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTcwMzQ2MjY2ZTllMDcxZWE5MDAzYmY1MjQ0YjQyMjBlN2U0ZWZiOWYwNjM2NGU3ZmE0NDlhZGU3ODAzNjA4ZSJ9fX0=
+    slot: 11
+    display_name: '&#505653「&#4A4F4Dɴ&#444946ᴏ&#3E4240ᴠ&#383C3Aɪ&#323534ᴄ&#2C2F2Dᴇ&#262827」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E115000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E18 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 75 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &275'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 45 ᴍᴏʙs &a%statistic_mob_kills% &8/ &245'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ɴᴏᴠıᴄᴇ'
+    - ''
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A52'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  royal:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTcwMzQ2MjY2ZTllMDcxZWE5MDAzYmY1MjQ0YjQyMjBlN2U0ZWZiOWYwNjM2NGU3ZmE0NDlhZGU3ODAzNjA4ZSJ9fX0=
+    slot: 20
+    display_name: '&#7D817F「&#747776ʀ&#6A6E6Cᴏ&#616463ʏ&#585A59ᴀ&#4E5150ʟ&#454746」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E1300000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E112 ʜᴏᴜʀs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 100 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2100'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 60 ᴍᴏʙs &a%statistic_mob_kills% &8/ &260'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ʀᴏʏᴀʟ'
+    - ''
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A52'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  noble:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E5NTY2MDU2ZGE0OGE4Yjg0NWU4NzRmMDEwZjM4YTIxMDg5YjkxNGJmOGVlYjdmNGU2ZDVlN2YwMWMwNTJmZiJ9fX0
+    slot: 12
+    display_name: '&#3CA53E「&#369D38ɴ&#309532ᴏ&#2B8D2Dʙ&#258527ʟ&#1F7D21ᴇ&#19751B」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E1500000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E11 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 125 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2125'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 15 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &215'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 80 ᴍᴏʙs &a%statistic_mob_kills% &8/ &280'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ɴᴏʙʟᴇ'
+    - ''
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A53'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  experienced:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNhOWNmZWVjMGM2ZjJkMGMxYjI5NWJhZjJkZmZlMDAwZDRiOWYzNzI1ODI3ZjFkZDY3ZWI0NmFjMmFhZDY1NiJ9fX0
+    slot: 21
+    display_name: '&#5DCD61「&#59C95Dᴇ&#56C45Ax&#52C056ᴘ&#4FBB52ᴇ&#4BB74Eʀ&#48B34Bɪ&#44AE47ᴇ&#40AA43ɴ&#3DA53Fᴄ&#39A13Cᴇ&#369C38ᴅ&#329834」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E1800000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E12 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2150'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 30 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &230'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 120 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2120'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴇxᴘᴇʀɪᴇɴᴄᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ''
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A53'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  hero:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzcwY2FjZDU5NzM5ODBjMWVjNGUyMTY0MTAyYjUwZDY0ZDcwYjNmZWRmYmM0YTBmNzMxMjdiODAwNmNiYmY5YiJ9fX0=
+    slot: 13
+    display_name: '&#9125B7「&#8B20B0ʜ&#851BAAᴇ&#7E15A3ʀ&#78109Dᴏ&#720B96」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E11500000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E13 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 175 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2175'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 50 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &250'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 150 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2150'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ʜᴇʀᴏ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A53'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A53'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  expert:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkYTFhN2FmOGYyODdhYTVkMDlmYThhNDc3MDM5YjQ2OWIyZmQyYjM2M2Y3NzI5MzI2MGU3YTdlMzU4MjA4OCJ9fX0=
+    slot: 22
+    display_name: '&#B852DB「&#B24DD5ᴇ&#AB47CEx&#A542C8ᴘ&#9F3DC1ᴇ&#9938BBʀ&#9232B4ᴛ&#8C2DAE」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E12500000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E14 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 200 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2200'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 80 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &280' 
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 20 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &220'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 280 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2250'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴇxᴘᴇʀᴛ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A53'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A54'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  emperor:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNiYTgxZGE2YzNhYjRlMGIzYWM3NzFlZmM1MmMyM2E1ZTAxZjI2MGU0OWZlYWY0YjQ3NzljMjY0YmFjOTFhNCJ9fX0=
+    slot: 14
+    display_name: '&#DBA30C「&#D39D0Cᴇ&#CA970Bᴍ&#C2900Bᴘ&#BA8A0Aᴇ&#B1840Aʀ&#A97E09ᴏ&#A07709ʀ&#987108」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E140000000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E15 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 250 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2250'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 120 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &2120'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 45 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &245'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 325 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2325'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴇᴍᴘᴇʀᴏʀ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A53'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A55'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  ruler:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRmZmEwZmRlMmVmM2I3Y2RmZjY0MjFkYmJkZGJlMzI5NjVjYmJlMWY3YjhkYTE5MjE4MmQ0MGI4NmQyZDk1YyJ9fX0=
+    slot: 23
+    display_name: '&#ECBB35「&#E1B334ʀ&#D6AA33ᴜ&#CBA232ʟ&#BF9930ᴇ&#B4912Fʀ&#A9882E」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E150000000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E16 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 300 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2300'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &2150'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 80 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &280'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 20 ɢᴏʟᴅ ᴏʀᴇ &a%statistic_mine_block:GOLD_ORE% &8/ &220'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 400 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2400'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ʀᴜʟᴇʀ'
+    - ' &8⇴ &#B7FCD5/ғʟʏ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'    
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A53'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A56'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  mythic:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTI2MGJjNWJmYzExNWNjY2MxMzIzYzc0NzM2Yzc5NGRlODg0YWQwMTFjOTEzMjJlZGJlNWMwMWY2YTk0MzA1ZCJ9fX0=
+    slot: 15
+    display_name: '&#4477C6「&#3F72BFᴍ&#3B6CB9ʏ&#3667B2ᴛ&#3161ACʜ&#2C5CA5ɪ&#28569Fᴄ&#235198」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E160000000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E17 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 350 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2350'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 180 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &2180'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 125 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &2125'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 50 ɢᴏʟᴅ ᴏʀᴇ &a%statistic_mine_block:GOLD_ORE% &8/ &250'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 500 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2500'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴍʏᴛʜɪᴄ'
+    - ' &8⇴ &#B7FCD5/ғʟʏ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A54'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A57'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  olympus:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTkwYzVjNDY1YmMzYjhlNWViZjYwMzQyZmExZTllY2NiMTI1NjNjNWZmMDVhYmI3YTY0MzE1OTQ3ODE1MDAwMiJ9fX0=
+    slot: 24
+    display_name: '&#5FC8E3「&#5AC2DCᴏ&#55BBD5ʟ&#50B5CEʏ&#4BAEC8ᴍ&#46A8C1ᴘ&#41A1BAᴜ&#3C9BB3s&#3794AC」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E18000000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E18 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 450 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2450'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 200 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &2200'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &2150'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 75 ɢᴏʟᴅ ᴏʀᴇ &a%statistic_mine_block:GOLD_ORE% &8/ &275'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 15 ᴇᴍᴇʀᴀʟᴅ ᴏʀᴇ &a%statistic_mine_block:EMERALD_ORE% &8/ &215'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 700 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2700'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴏʟʏᴍᴘᴜs'
+    - ' &8⇴ &#B7FCD5/ғʟʏ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A55'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A58'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  elite:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJkZjk0NGI0NzQyMGEzN2RmYTgyMzJmNzRhNmU1N2JjMzViZWIyN2VkYjYwOGQ2MGYwNDcxMGU0ZjIzNzhkZCJ9fX0
+    slot: 16
+    display_name: '&#922121「&#891E1Eᴇ&#801A1Aʟ&#781717ɪ&#6F1414ᴛ&#661010ᴇ&#5D0D0D」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E19000000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E19 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 525 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2525'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 250 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &2250'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 175 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &2175'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 100 ɢᴏʟᴅ ᴏʀᴇ &a%statistic_mine_block:GOLD_ORE% &8/ &2100'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 30 ᴇᴍᴇʀᴀʟᴅ ᴏʀᴇ &a%statistic_mine_block:EMERALD_ORE% &8/ &230'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 850 ᴍᴏʙs &a%statistic_mob_kills% &8/ &2850'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴇʟɪᴛᴇ'
+    - ' &8⇴ &#B7FCD5/ғʟʏ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A56'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A59'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+  pixelated:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI1ZjI0YmUyYzAwNWM2OGE1YzVjNTRlYWNlNzAwOWQzMDg0NjZjNGM2NDFkMmY5YTg2ZjAwZjc3NDBiYmIwMSJ9fX0=
+    slot: 25
+    display_name: '&#CA3A3A「&#C83838ᴘ&#C53636ɪ&#C33434x&#C03232ᴇ&#BE3030ʟ&#BB2E2Eᴀ&#B92C2Cᴛ&#B62A2Aᴇ&#B42828ᴅ&#B12626」&7%player_name%'
+    lore:
+    - ''
+    - '&8ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs:'
+    - ' &8⇴ &#39FF67💰 &#C8E2E110000000$ ᴍᴏɴᴇʏ'
+    - ' &8⇴ &#F6F251⌛ &#C8E2E110 ᴅᴀʏs ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 600 ᴄᴏᴀʟ ᴏʀᴇ &a%statistic_mine_block:COAL_ORE% &8/ &2600'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 300 ıʀᴏɴ ᴏʀᴇ &a%statistic_mine_block:IRON_ORE% &8/ &2300'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 200 ᴅɪᴀᴍᴏɴᴅ ᴏʀᴇ &a%statistic_mine_block:DIAMOND_ORE% &8/ &2200'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 150 ɢᴏʟᴅ ᴏʀᴇ &a%statistic_mine_block:GOLD_ORE% &8/ &2150'
+    - ' &8⇴ &#B1B1B1⛏ &#C8E2E1ʙʀᴇᴀᴋ 45 ᴇᴍᴇʀᴀʟᴅ ᴏʀᴇ &a%statistic_mine_block:EMERALD_ORE% &8/ &245'
+    - ' &8⇴ &#F64F4F🗡 &#C8E2E1ᴋɪʟʟ 10000 ᴍᴏʙs &a%statistic_mob_kills% &8/ &21000'
+    - ''
+    - '&8ғᴇᴀᴛᴜʀᴇs;'
+    - ' &8⇴ &#B7FCD5/ᴋɪᴛ ᴘɪxᴇʟᴀᴛᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ғʟʏ'
+    - ' &8⇴ &#B7FCD5/ғᴇᴇᴅ'
+    - ' &8⇴ &#B7FCD5/ʜᴇᴀʟ'
+    - ' &8⇴ &#B7FCD5/ʜᴀᴛ'
+    - ' &8⇴ &#B7FCD5/ᴄʀᴀғᴛ'
+    - ' &8⇴ &#B7FCD5/ʀᴇᴘᴀɪʀ'
+    - ''
+    - ' &8⇴ &#B7FCD5sᴇᴛʜᴏᴍᴇ ʟɪᴍɪᴛ &#7DD9A57'
+    - ' &8⇴ &#B7FCD5ᴘʟᴀʏᴇʀᴠᴀᴜʟᴛ ʟɪᴍɪᴛ &#7DD9A510'
+    - ''
+    - '&8► &#D1E7DAᴄʟɪᴄᴋ ᴛᴏ &nʀᴀɴᴋ ᴜᴘ!'
+    left_click_commands:
+    - '[player] rankup'
+    right_click_commands:
+    - '[player] rankup'
+
+# 57270FTQPV
